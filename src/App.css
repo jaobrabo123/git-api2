@@ -97,8 +97,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 350px; /* Define a largura da div */
-  height: 350px; /* Define a altura da div para ficar quadrada */
+  width: 90%; /* Define a largura da div */
+  height: 72%; /* Define a altura da div para ficar quadrada */
   background-color: #333;
   border-radius: 12px; /* Mantém as bordas suavizadas */
   padding: 20px;
